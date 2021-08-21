@@ -1,0 +1,6 @@
+
+# A Photo Gallery with Image Rotation
+
+Python==3.6.9
+Django==3.0.6
+Pillow==7.1.2                    
